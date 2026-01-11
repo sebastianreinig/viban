@@ -4,6 +4,9 @@
 
 Viban is a lightweight TypeScript Kanban board that integrates with AI coding assistants via the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/). It enables AI tools like Claude, Cursor, or Antigravity to manage development tasks programmatically.
 
+<img width="1261" height="809" alt="image" src="https://github.com/user-attachments/assets/da2b5e1f-5473-42ca-9b63-1b27f09d238e" />
+
+
 ## Features
 
 - 🎯 **4 Kanban Columns**: Backlog → Todo → Review → Done
